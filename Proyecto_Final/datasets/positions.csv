@@ -1,0 +1,22 @@
+﻿position_id;position_code;position_name
+1;GK;goal keeper
+2;DF;defender
+3;MF;midfielder
+4;FW;forward
+5;RB;right back
+6;LB;left back
+7;DM;defensive midfielder
+8;CB;center back
+9;CF;center forward
+10;CM;center midfielder
+11;AM;attacking midfielder
+12;RW;right winger
+13;LW;left winger
+14;RM;right midfielder
+15;SS;second striker
+16;LM;left midfielder
+17;LF;left forward
+18;RF;right forward
+19;SW;sweeper
+20;RWB;right wing back
+21;LWB;left wing back

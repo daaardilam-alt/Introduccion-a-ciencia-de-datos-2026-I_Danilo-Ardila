@@ -1,0 +1,241 @@
+﻿stadium_id;stadium_name;stadium_capacity;city_id
+S-001;Estadio José Amalfitani;49000;1
+S-002;Estadio Monumental;75000;1
+S-003;Estadio Chateau Carreras;47000;2
+S-004;Estadio José María Minella;44000;3
+S-005;Estadio Ciudad de Mendoza;35000;4
+S-006;Estadio Gigante de Arroyito;46000;5
+S-007;Estádio Independência;30000;6
+S-008;Estádio Mineirão;43000;6
+S-009;Estádio Nacional;70000;7
+S-010;Arena Pantanal;41000;8
+S-011;Arena da Baixada;40000;9
+S-012;Estádio Vila Capanema;10000;9
+S-013;Estádio Castelão;63000;10
+S-014;Arena da Amazônia;41000;11
+S-015;Arena das Dunas;40000;12
+S-016;Estádio Beira-Rio;43000;13
+S-017;Estádio dos Eucaliptos;20000;13
+S-018;Arena Pernambuco;43000;14
+S-019;Estádio Ilha do Retiro;30000;14
+S-020;Estádio do Maracanã;200000;15
+S-021;Arena Fonte Nova;52000;16
+S-022;Arena Corinthians;63000;17
+S-023;Estádio do Pacaembu;60000;17
+S-024;Commonwealth Stadium;56000;18
+S-025;Moncton Stadium;13000;19
+S-026;Olympic Stadium;56000;20
+S-027;TD Place Stadium;24000;21
+S-028;BC Place;54000;22
+S-029;Investors Group Field;33000;23
+S-030;Estadio Carlos Dittborn;18000;24
+S-031;Estadio El Teniente;18000;25
+S-032;Estadio Nacional;67000;26
+S-033;Estadio Sausalito;18000;27
+S-034;Chengdu Sports Center;40000;28
+S-035;New Plaza Stadium;14000;29
+S-036;Gaungdong Provincial Stadium;25000;30
+S-037;Guangdong Provincial Stadium;25000;30
+S-038;Tainhe Stadium;60000;30
+S-039;Tianhe Stadium;60000;30
+S-040;Ying Tung Stadium;15000;30
+S-041;Yellow Dragon Sports Center;51000;31
+S-042;Jiangmen Stadium;13000;32
+S-043;Hongkou Football Stadium;33000;33
+S-044;Tianjin Olympic Center;60000;34
+S-045;Wuhan Sports Center;60000;35
+S-046;Zhongshan Stadium;12000;36
+S-047;Villa Park;52000;37
+S-048;Goodison Park;50000;38
+S-049;Wembley Stadium;99000;39
+S-050;White City Stadium;77000;39
+S-051;Old Trafford;58000;40
+S-052;Ayresome Park;40000;41
+S-053;Hillsborough Stadium;43000;42
+S-054;Roker Park;40000;43
+S-055;Stade du Fort Carré;7000;44
+S-056;Stade du Parc Lescure;35000;45
+S-057;Stade des Alpes;18000;46
+S-058;Stade Jules Deschaseaux;22000;47
+S-059;Stade Océane;24000;47
+S-060;Stade Félix-Bollaert;41000;48
+S-061;Stade Victor Boucquey;15000;49
+S-062;Parc Olympique Lyonnais;58000;50
+S-063;Stade de Gerland;44000;50
+S-064;Stade Vélodrome;60000;51
+S-065;Stade de la Mosson;34000;52
+S-066;Stade de la Beaujoire;40000;53
+S-067;Allianz Riviera;35000;54
+S-068;Parc des Princes;49000;55
+S-069;Stade Olympique de Colombes;60000;55
+S-070;Stade Auguste-Delaune;21000;56
+S-071;Vélodrome Municipal;22000;56
+S-072;Roazhon Park;29000;57
+S-073;Stade de France;80000;58
+S-074;Stade Geoffroy-Guichard;36000;59
+S-075;Stade de la Meinau;30000;60
+S-076;Stade de Toulouse;37000;61
+S-077;Stade du T.O.E.C.;15000;61
+S-078;Stade du Hainaut;23000;62
+S-079;Impuls Arena;25000;63
+S-080;Olympiastadion;86000;64
+S-081;Ruhrstadion;21000;65
+S-082;RheinEnergieStadion;45000;66
+S-083;Westfalenstadion;65000;67
+S-084;Rudolf-Harbig-Stadion;26000;68
+S-085;Rheinstadion;70000;69
+S-086;Waldstadion;62000;70
+S-087;Arena AufShalke;52000;71
+S-088;Parkstadion;72000;71
+S-089;Volksparkstadion;61000;72
+S-090;Niedersachsenstadion;60000;73
+S-091;Fritz-Walter-Stadion;46000;74
+S-092;Zentralstadion;43000;75
+S-093;BayArena;30000;76
+S-094;Borussia-Park;46000;77
+S-095;Allianz Arena;66000;78
+S-096;Olympiastadion;78000;78
+S-097;Frankenstadion;41000;79
+S-098;Rhein-Neckar-Arena;30000;80
+S-099;Neckarstadion;72000;81
+S-100;Volkswagen Arena;26000;82
+S-101;Stadio San Nicola;51000;83
+S-102;Stadio Renato Dall'Ara;50000;84
+S-103;Stadio Sant'Elia;35000;85
+S-104;Stadio Comunale;39000;86
+S-105;Stadio Giovanni Berta;47000;86
+S-106;Stadio Luigi Ferraris;37000;87
+S-107;San Siro;75000;88
+S-108;Stadio Giorgio Ascarelli;40000;89
+S-109;Stadio San Paolo;60000;89
+S-110;Stadio La Favorita;33000;90
+S-111;Stadio Nazionale PNF;47000;91
+S-112;Stadio Olimpico;74000;91
+S-113;Stadio Littorio;8000;92
+S-114;Stadio Benito Mussolini;28000;93
+S-115;Stadio delle Alpi;63000;93
+S-116;Stadio Friuli;36000;94
+S-117;Stadio Marc'Antonio Bentegodi;36000;95
+S-118;Kashima Stadium;42000;96
+S-119;Kobe Wing Stadium;42000;97
+S-120;Miyagi Stadium;49000;98
+S-121;Niigata Stadium;42000;99
+S-122;Ōita Stadium;43000;100
+S-123;Nagai Stadium;50000;101
+S-124;Saitama Stadium;63000;102
+S-125;Sapporo Dome;42000;103
+S-126;Shizuoka Stadium ECOPA;51000;104
+S-127;International Stadium Yokohama;72000;105
+S-128;Estadio Jalisco;71000;106
+S-129;Estadio Tres de Marzo;30000;106
+S-130;Estadio Sergio León Chavez;31000;107
+S-131;Estadio Nou Camp;31000;108
+S-132;Estadio Azteca;115000;109
+S-133;Estadio Olímpico Universitario;72000;109
+S-134;Estadio Tecnológico;34000;110
+S-135;Estadio Universitario;44000;110
+S-136;Estadio Neza 86;35000;111
+S-137;Estadio Cuauhtémoc;46000;112
+S-138;Estadio La Corregidora;39000;113
+S-139;La Bombonera;33000;114
+S-140;Al Bayt Stadium;69000;115
+S-141;Ahmad bin Ali Stadium;45000;116
+S-142;Education City Stadium;45000;116
+S-143;Khalifa International Stadium;46000;116
+S-144;Al Janoub Stadium;44000;117
+S-145;Al Thumama Stadium;44000;118
+S-146;Stadium 974;44000;118
+S-147;Lusail Stadium;89000;119
+S-148;Kaliningrad Stadium;34000;120
+S-149;Kazan Arena;43000;121
+S-150;Luzhniki Stadium;78000;122
+S-151;Otkritie Arena;44000;122
+S-152;Nizhny Novgorod Stadium;43000;123
+S-153;Rostov Arena;43000;124
+S-154;Krestovsky Stadium;64000;125
+S-155;Samara Arena;42000;126
+S-156;Mordovia Arena;42000;127
+S-157;Fisht Olympic Stadium;44000;128
+S-158;Volgograd Arena;44000;129
+S-159;Central Stadium;33000;130
+S-160;Free State Stadium;41000;131
+S-161;Cape Town Stadium;64000;132
+S-162;Moses Mabhida Stadium;63000;133
+S-163;Ellis Park Stadium;56000;134
+S-164;Soccer City;84000;134
+S-165;Mbombela Stadium;41000;135
+S-166;Peter Mokaba Stadium;42000;136
+S-167;Nelson Mandela Bay Stadium;42000;137
+S-168;Loftus Versfeld Stadium;43000;138
+S-169;Royal Bafokeng Stadium;42000;139
+S-170;Busan Asiad Stadium;56000;140
+S-171;Daegu World Cup Stadium;68000;141
+S-172;Daejeon World Cup Stadium;40000;142
+S-173;Gwangju World Cup Stadium;43000;143
+S-174;Incheon Munhak Stadium;52000;144
+S-175;Jeonju World Cup Stadium;42000;145
+S-176;Jeju World Cup Stadium;42000;146
+S-177;Seoul World Cup Stadium;64000;147
+S-178;Suwon World Cup Stadium;43000;148
+S-179;Ulsan Munsu Football Stadium;44000;149
+S-180;Estadio Riazor;34000;150
+S-181;Estadio José Rico Pérez;33000;151
+S-182;Camp Nou;121000;152
+S-183;Estadi de Sarrià;40000;152
+S-184;Estadio San Mamés;46000;153
+S-185;Nuevo Estadio;53000;154
+S-186;Estadio El Molinón;45000;155
+S-187;Estadio Santiago Bernabéu;90000;156
+S-188;Vicente Calderón;66000;156
+S-189;Estadio La Rosaleda;45000;157
+S-190;Estadio Carlos Tartiere;24000;158
+S-191;Estadio Benito Villamarín;50000;159
+S-192;Estadio Ramón Sánchez Pizjuán;68000;159
+S-193;Estadio Luis Casanova;50000;160
+S-194;Estadio José Zorrilla;30000;161
+S-195;Balaídos;33000;162
+S-196;Estadio La Romareda;42000;163
+S-197;Ryavallen;15000;164
+S-198;Tunavallen;22000;165
+S-199;Strömvallen;7000;166
+S-200;Ullevi;54000;167
+S-201;Örjans Vall;15000;168
+S-202;Olympia;27000;169
+S-203;Tingvalla IP;5000;170
+S-204;Malmö Stadion;30000;171
+S-205;Idrottsparken;20000;172
+S-206;Eyravallen;13000;173
+S-207;Jernvallen;20000;174
+S-208;Råsunda Stadium;52000;175
+S-209;Rimnersvallen;18000;176
+S-210;Arosvallen;10000;177
+S-211;St. Jakob Stadium;55000;178
+S-212;Wankdorf Stadium;65000;179
+S-213;Charmilles Stadium;36000;180
+S-214;Stade Olympique de la Pontaise;50000;181
+S-215;Cornaredo Stadium;36000;182
+S-216;Hardturm Stadium;35000;183
+S-217;Foxboro Stadium;59000;184
+S-218;Home Depot Center;28000;185
+S-219;Soldier Field;65000;186
+S-220;Columbus Crew Stadium;23000;187
+S-221;Cotton Bowl;64000;188
+S-222;Giants Stadium;76000;189
+S-223;Foxboro Stadium;54000;190
+S-224;Gillette Stadium;68000;190
+S-225;Rose Bowl;96000;191
+S-226;Giants Stadium;78000;192
+S-227;Citrus Bowl;62000;193
+S-228;Rose Bowl;94000;194
+S-229;Lincoln Financial Field;70000;195
+S-230;Pontiac Silverdome;78000;196
+S-231;Civic Stadium;27000;197
+S-232;PGE Park;28000;197
+S-233;Stanford Stadium;85000;198
+S-234;Spartan Stadium;26000;199
+S-235;Stanford Stadium;84000;200
+S-236;Jack Kent Cooke Stadium;80000;201
+S-237;RFK Stadium;53000;201
+S-238;Estadio Centenario;90000;202
+S-239;Estadio Gran Parque Central;20000;202
+S-240;Estadio Pocitos;10000;202

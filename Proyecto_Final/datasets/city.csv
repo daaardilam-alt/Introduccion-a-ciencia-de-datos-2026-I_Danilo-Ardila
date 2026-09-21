@@ -1,0 +1,203 @@
+﻿city_id;city_name;country_id
+1;Buenos Aires;1
+2;Córdoba;1
+3;Mar del Plata;1
+4;Mendoza;1
+5;Rosario;1
+6;Belo Horizonte;2
+7;Brasília;2
+8;Cuiabá;2
+9;Curitiba;2
+10;Fortaleza;2
+11;Manaus;2
+12;Natal;2
+13;Porto Alegre;2
+14;Recife;2
+15;Rio de Janeiro;2
+16;Salvador;2
+17;São Paulo;2
+18;Edmonton;3
+19;Moncton;3
+20;Montreal;3
+21;Ottawa;3
+22;Vancouver;3
+23;Winnipeg;3
+24;Arica;4
+25;Rancagua;4
+26;Santiago;4
+27;Viña del Mar;4
+28;Chengdu;5
+29;Foshan;5
+30;Guangzhou;5
+31;Hangzhou;5
+32;Jiangmen;5
+33;Shanghai;5
+34;Tianjin;5
+35;Wuhan;5
+36;Zhongshan;5
+37;Birmingham;6
+38;Liverpool;6
+39;London;6
+40;Manchester;6
+41;Middlesbrough;6
+42;Sheffield;6
+43;Sunderland;6
+44;Antibes;7
+45;Bordeaux;7
+46;Grenoble;7
+47;Le Havre;7
+48;Lens;7
+49;Lille;7
+50;Lyon;7
+51;Marseille;7
+52;Montpellier;7
+53;Nantes;7
+54;Nice;7
+55;Paris;7
+56;Reims;7
+57;Rennes;7
+58;Saint-Denis;7
+59;Saint-Étienne;7
+60;Strasbourg;7
+61;Toulouse;7
+62;Valenciennes;7
+63;Augsburg;8
+64;Berlin;8
+65;Bochum;8
+66;Cologne;8
+67;Dortmund;8
+68;Dresden;8
+69;Düsseldorf;8
+70;Frankfurt;8
+71;Gelsenkirchen;8
+72;Hamburg;8
+73;Hanover;8
+74;Kaiserslautern;8
+75;Leipzig;8
+76;Leverkusen;8
+77;Mönchengladbach;8
+78;Munich;8
+79;Nuremberg;8
+80;Sinsheim;8
+81;Stuttgart;8
+82;Wolfsburg;8
+83;Bari;9
+84;Bologna;9
+85;Cagliari;9
+86;Florence;9
+87;Genoa;9
+88;Milan;9
+89;Naples;9
+90;Palermo;9
+91;Rome;9
+92;Trieste;9
+93;Turin;9
+94;Udine;9
+95;Verona;9
+96;Ibaraki;10
+97;Kobe;10
+98;Miyagi;10
+99;Niigata;10
+100;Ōita;10
+101;Osaka;10
+102;Saitama;10
+103;Sapporo;10
+104;Shizuoka;10
+105;Yokohama;10
+106;Guadalajara;11
+107;Irapuato;11
+108;León;11
+109;Mexico City;11
+110;Monterrey;11
+111;Nezahualcóyotl;11
+112;Puebla;11
+113;Querétaro;11
+114;Toluca;11
+115;Al Khor;12
+116;Al Rayyan;12
+117;Al Wakrah;12
+118;Doha;12
+119;Lusail;12
+120;Kaliningrad;13
+121;Kazan;13
+122;Moscow;13
+123;Nizhny Novgorod;13
+124;Rostov-on-Don;13
+125;Saint Petersburg;13
+126;Samara;13
+127;Saransk;13
+128;Sochi;13
+129;Volgograd;13
+130;Yekaterinburg;13
+131;Bloemfontein;14
+132;Cape Town;14
+133;Durban;14
+134;Johannesburg;14
+135;Nelspruit;14
+136;Polokwane;14
+137;Port Elizabeth;14
+138;Pretoria;14
+139;Rustenburg;14
+140;Busan;15
+141;Daegu;15
+142;Daejeon;15
+143;Gwangju;15
+144;Incheon;15
+145;Jeonju;15
+146;Seogwipo;15
+147;Seoul;15
+148;Suwon;15
+149;Ulsan;15
+150;A Coruña;16
+151;Alicante;16
+152;Barcelona;16
+153;Bilbao;16
+154;Elche;16
+155;Gijón;16
+156;Madrid;16
+157;Málaga;16
+158;Oviedo;16
+159;Seville;16
+160;Valencia;16
+161;Valladolid;16
+162;Vigo;16
+163;Zaragoza;16
+164;Borås;17
+165;Eskilstuna;17
+166;Gävle;17
+167;Gothenburg;17
+168;Halmstad;17
+169;Helsingborg;17
+170;Karlstad;17
+171;Malmö;17
+172;Norrköping;17
+173;Örebro;17
+174;Sandviken;17
+175;Solna;17
+176;Uddevalla;17
+177;Västerås;17
+178;Basel;18
+179;Bern;18
+180;Geneva;18
+181;Lausanne;18
+182;Lugano;18
+183;Zürich;18
+184;Boston;19
+185;Carson;19
+186;Chicago;19
+187;Columbus;19
+188;Dallas;19
+189;East Rutherford;19
+190;Foxborough;19
+191;Los Angeles;19
+192;New York City;19
+193;Orlando;19
+194;Pasadena;19
+195;Philadelphia;19
+196;Pontiac;19
+197;Portland;19
+198;San Fransisco;19
+199;San Jose;19
+200;Stanford;19
+201;Washington, D.C.;19
+202;Montevideo;20
